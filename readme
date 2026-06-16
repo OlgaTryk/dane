@@ -1,0 +1,6 @@
+wymagania: postgresql, Python 3, zawartość requirements.txt
+sql_scripts/init.sql - stworzenie bazy danych i użytkownika dla narzędzi
+
+Instrukcja dbt:
+dbt init - inicjalizacja
+dbt run - wykonanie skryptów w warehouse_dbt/models

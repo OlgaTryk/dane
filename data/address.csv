@@ -1,0 +1,121 @@
+id,street,buildingnum,apptnum,city,region,country
+1000,Łączna,62,62,Nowy Targ,Kujawsko-pomorskie,Polska
+1001,,20,,Piła,Lubelskie,Polska
+1002,Maja,37,49,Mielec,Wielkopolskie,Polska
+1003,,32,,Wejherowo,Małopolskie,Polska
+1004,Maja,12,74,Świecie,Kujawsko-pomorskie,Polska
+1005,Malinowa,49,52,Ostrowiec Świętokrzyski,Świętokrzyskie,Polska
+1006,Tęczowa,38,70,Chełm,Łódzkie,Polska
+1007,Ciasna,18,52,Oleśnica,Kujawsko-pomorskie,Polska
+1008,Topolowa,29,17,Konin,Wielkopolskie,Polska
+1009,Jeziorna,58,70,Brodnica,Śląskie,Polska
+1010,Kasprowicza,15,94,Poznań,Świętokrzyskie,Polska
+1011,,40,,Oleśnica,Śląskie,Polska
+1012,Kraszewskiego,31,3,Augustów,Podkarpackie,Polska
+1013,Rumiankowa,51,91,Pabianice,Opolskie,Polska
+1014,Rzemieślnicza,87,45,Łuków,Wielkopolskie,Polska
+1015,Polna,90,55,Łódź,Lubelskie,Polska
+1016,Staffa,62,33,Piekary Śląskie,Pomorskie,Polska
+1017,,57,,Mysłowice,Wielkopolskie,Polska
+1018,Jeżynowa,51,86,Myszków,Mazowieckie,Polska
+1019,Sarnia,25,80,Nysa,Opolskie,Polska
+1020,Traugutta,47,87,Tarnów,Podkarpackie,Polska
+1021,,49,,Kutno,Mazowieckie,Polska
+1022,Dobra,35,75,Lubin,Opolskie,Polska
+1023,Krzywa,14,69,Gdańsk,Wielkopolskie,Polska
+1024,Niecała,69,54,Sieradz,Śląskie,Polska
+1025,,72,,Chojnice,Pomorskie,Polska
+1026,,50,,Piotrków Trybunalski,Zachodniopomorskie,Polska
+1027,Kołłątaja,74,99,Szczytno,Kujawsko-pomorskie,Polska
+1028,Złota,73,62,Opole,Podkarpackie,Polska
+1029,Wczasowa,72,18,Kościan,Kujawsko-pomorskie,Polska
+1030,Wyzwolenia,17,13,Ciechanów,Wielkopolskie,Polska
+1031,Dębowa,99,85,Ciechanów,Łódzkie,Polska
+1032,,50,,Kędzierzyn-Koźle,Śląskie,Polska
+1033,Lwowska,62,33,Pabianice,Opolskie,Polska
+1034,Wypoczynkowa,50,1,Piekary Śląskie,Małopolskie,Polska
+1035,,83,,Płock,Opolskie,Polska
+1036,,32,,Nowy Sącz,Opolskie,Polska
+1037,Krótka,83,27,Sieradz,Warmińsko-mazurskie,Polska
+1038,Łączna,25,31,Ełk,Lubelskie,Polska
+1039,Słowackiego,24,80,Sosnowiec,Dolnośląskie,Polska
+1040,Cmentarna,83,59,Kraśnik,Lubuskie,Polska
+1041,Borowa,38,52,Łomża,Małopolskie,Polska
+1042,Miodowa,56,69,Cieszyn,Śląskie,Polska
+1043,Brzozowa,49,87,Pruszcz Gdański,Lubelskie,Polska
+1044,Ceglana,42,38,Turek,Warmińsko-mazurskie,Polska
+1045,Dojazdowa,58,86,Tychy,Opolskie,Polska
+1046,Makowa,62,52,Wodzisław Śląski,Lubelskie,Polska
+1047,Żwirowa,54,31,Inowrocław,Zachodniopomorskie,Polska
+1048,Wolności,46,59,Wrocław,Małopolskie,Polska
+1049,Rejtana,86,33,Częstochowa,Śląskie,Polska
+1050,Kolejowa,97,68,Białogard,Kujawsko-pomorskie,Polska
+1051,Poziomkowa,94,52,Dzierżoniów,Lubelskie,Polska
+1052,,93,,Mława,Opolskie,Polska
+1053,Krokusowa,29,83,Malbork,Opolskie,Polska
+1054,,90,,Piastów,Zachodniopomorskie,Polska
+1055,Cedrowa,2,42,Krosno,Podlaskie,Polska
+1056,Sokola,15,64,Zielona Góra,Warmińsko-mazurskie,Polska
+1057,Wodna,50,22,Ełk,Wielkopolskie,Polska
+1058,,82,,Malbork,Małopolskie,Polska
+1059,Pułaskiego,12,35,Jasło,Kujawsko-pomorskie,Polska
+1060,,93,,Jastrzębie-Zdrój,Zachodniopomorskie,Polska
+1061,Krucza,30,41,Augustów,Opolskie,Polska
+1062,Złota,76,94,Gdynia,Mazowieckie,Polska
+1063,Nałkowskiej,73,93,Gorlice,Łódzkie,Polska
+1064,Orkana,89,36,Bydgoszcz,Kujawsko-pomorskie,Polska
+1065,,70,,Świebodzice,Opolskie,Polska
+1066,Dojazdowa,32,87,Zambrów,Warmińsko-mazurskie,Polska
+1067,Słowianska,79,44,Inowrocław,Kujawsko-pomorskie,Polska
+1068,Wiejska,60,69,Jelenia Góra,Opolskie,Polska
+1069,Lotnicza,46,23,Stalowa Wola,Podlaskie,Polska
+1070,Skrajna,19,88,Legnica,Podkarpackie,Polska
+1071,Letnia,13,91,Oleśnica,Lubuskie,Polska
+1072,Tartaczna,2,55,Bolesławiec,Podkarpackie,Polska
+1073,Powstańców,83,91,Jasło,Zachodniopomorskie,Polska
+1074,Nałkowskiej,19,71,Płońsk,Zachodniopomorskie,Polska
+1075,Tęczowa,16,89,Koło,Lubuskie,Polska
+1076,Parkowa,54,17,Jarosław,Małopolskie,Polska
+1077,,95,,Sandomierz,Świętokrzyskie,Polska
+1078,Agrestowa,37,55,Białogard,Śląskie,Polska
+1079,Jarzębinowa,59,90,Chorzów,Lubuskie,Polska
+1080,Kalinowa,58,82,Ostrołęka,Warmińsko-mazurskie,Polska
+1081,Zakole,50,43,Goleniów,Podlaskie,Polska
+1082,Chabrowa,78,74,Legionowo,Pomorskie,Polska
+1083,Witosa,89,49,Kłodzko,Lubuskie,Polska
+1084,Zaułek,83,27,Kalisz,Podkarpackie,Polska
+1085,Jaworowa,69,72,Mława,Pomorskie,Polska
+1086,Agrestowa,20,10,Grodzisk Mazowiecki,Łódzkie,Polska
+1087,,72,,Białystok,Wielkopolskie,Polska
+1088,Azaliowa,82,51,Bochnia,Kujawsko-pomorskie,Polska
+1089,Korfantego,86,89,Mikołów,Małopolskie,Polska
+1090,Łabędzia,14,55,Tarnowskie Góry,Kujawsko-pomorskie,Polska
+1091,Częstochowska,37,78,Jarocin,Świętokrzyskie,Polska
+1092,Bankowa,31,8,Reda,Zachodniopomorskie,Polska
+1093,,92,,Wieluń,Lubuskie,Polska
+1094,Niecała,73,60,Białystok,Lubelskie,Polska
+1095,,8,,Chrzanów,Wielkopolskie,Polska
+1096,Nowa,63,96,Warszawa,Mazowieckie,Polska
+1097,Poznańska,11,69,Kościan,Pomorskie,Polska
+1098,Rózana,86,12,Oleśnica,Kujawsko-pomorskie,Polska
+1099,,11,,Kwidzyn,Lubelskie,Polska
+1100,,82,,Pruszcz Gdański,Śląskie,Polska
+1101,Poznańska,95,13,Marki,Dolnośląskie,Polska
+1102,,76,,Inowrocław,Śląskie,Polska
+1103,Miłosza,78,48,Głogów,Zachodniopomorskie,Polska
+1104,,36,,Wołomin,Dolnośląskie,Polska
+1105,Podwale,11,32,Płock,Wielkopolskie,Polska
+1106,Jesienna,82,57,Jaworzno,Dolnośląskie,Polska
+1107,Jagiellońska,15,10,Wodzisław Śląski,Mazowieckie,Polska
+1108,,35,,Kwidzyn,Pomorskie,Polska
+1109,,43,,Częstochowa,Lubelskie,Polska
+1110,Nowa,94,90,Sanok,Dolnośląskie,Polska
+1111,Gdańska,96,46,Żary,Kujawsko-pomorskie,Polska
+1112,Dębowa,23,15,Zielona Góra,Świętokrzyskie,Polska
+1113,,41,,Świebodzice,Pomorskie,Polska
+1114,Miła,24,68,Kościan,Podkarpackie,Polska
+1115,,7,,Wieluń,Kujawsko-pomorskie,Polska
+1116,Topolowa,21,78,Marki,Łódzkie,Polska
+1117,Brzoskwiniowa,44,61,Szczytno,Kujawsko-pomorskie,Polska
+1118,Storczykowa,94,64,Zgorzelec,Świętokrzyskie,Polska
+1119,Lazurowa,26,99,Zabrze,Świętokrzyskie,Polska
